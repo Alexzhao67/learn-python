@@ -1,14 +1,14 @@
 Contents
 Introduction 
 Before Numpy  
-The Environment and Choices . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  
-Launching the Jupyter Notebook . . . . . . . . . . . . . . . . . . . . . . . . . . 
-Launching the IPython QT Console with the Canopy Editor . . . . . . . . . . 
-Launching the IPython QT Console From the Terminal . . . . . . . . . . . . .  
-Launching the Native Python Console From the Terminal . . . . . . . . . . .  
-Ending Your Session . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-Data Types and Simple Calculations . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-Hello World . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+The Environment and Choices 
+Launching the Jupyter Notebook
+Launching the IPython QT Console with the Canopy Editor 
+Launching the IPython QT Console From the Terminal  
+Launching the Native Python Console From the Terminal 
+Ending Your Session 
+Data Types and Simple Calculations 
+Hello World 
 float, complex, long, int, str, and boolean . . . . . . . . . . . . . . . . . . . 
 Data Structures . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 Lists . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  
@@ -35,8 +35,7 @@ Working With Arrays . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 Graphics and More with Matplotlib 40
 Signals and Systems Tools and Examples 40 
 The Scipy Module scipy.signal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
-Using scikit-dsp-comm . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  
-More Modules . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+More Modules 
 A Simple DSP Class Case Study . 
 The class Code Base . 
 
