@@ -1,0 +1,45 @@
+Contents
+Introduction 
+Before Numpy  
+The Environment and Choices . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  
+Launching the Jupyter Notebook . . . . . . . . . . . . . . . . . . . . . . . . . . 
+Launching the IPython QT Console with the Canopy Editor . . . . . . . . . . 
+Launching the IPython QT Console From the Terminal . . . . . . . . . . . . .  
+Launching the Native Python Console From the Terminal . . . . . . . . . . .  
+Ending Your Session . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+Data Types and Simple Calculations . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Hello World . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+float, complex, long, int, str, and boolean . . . . . . . . . . . . . . . . . . . 
+Data Structures . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+Lists . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  
+Tuples . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+Dictionaries . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+Variables . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+Formatting Strings and Gathering User Input . . . . . . . . . . . . . . . . . . . . . . .
+Formatting Strings and Printing . . . . . . . . . . . . . . . . . . . . . . . . . . 
+Gathering User Input . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Flow Control . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+If, elif, and else . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+For Loops . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+While Loops . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+The Statements break and continue . . . . . . . . . . . . . . . . . . . . . . . . 
+Exceptions: try, except, and finally Blocks . . . . . . . . . . . . . . . . . . . . . . . 
+Functions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+Object Oriented Python: Writing a Class . . . . . . . . . . . . . . . . . . . . . . . . . 
+Basics . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  
+Writing a Simple Class . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+After Numpy 33 NumPy Fundamentals . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+The N-Dimensional Array and Available Types . . . . . . . . . . . . . . . . .
+Array Creation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+Working With Arrays . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+Graphics and More with Matplotlib 40
+Signals and Systems Tools and Examples 40 
+The Scipy Module scipy.signal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+Using scikit-dsp-comm . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  
+More Modules . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+A Simple DSP Class Case Study . 
+The class Code Base . 
+
+Lowpass and Bandpass Examples .
+
+References 
