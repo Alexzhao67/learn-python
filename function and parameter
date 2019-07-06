@@ -1,0 +1,55 @@
+def print_me(txt):
+    
+    print(txt)
+    return
+
+
+print_me(txt="Hello World")
+--------------------------------------------
+
+def print_info(name, age=35):
+
+    print("name: ", name)
+    print("age: ", age)
+    return
+
+
+print_info(age=50, name="Tom")
+print_info(name="Lucy")
+
+# result
+# name:  Tom
+# age:  50
+# name:  Lucy
+# age:  35
+-----------------------------------------------
+
+def print_info(arg1, *vartuple):
+
+    print("result: ")
+    print(arg1)
+    print(vartuple)
+
+
+print_info(70, 60, 50)
+# result: 
+# 70
+# (60, 50)
+----------------------------------------------------
+
+def printinfo(arg1, **vardict):
+
+    print("result: ")
+    print(arg1)
+    print(vardict)
+
+
+printinfo(1, a=2, b=3)
+
+# result: 
+# 1
+# {'a': 2, 'b': 3}
+
+
+
+
