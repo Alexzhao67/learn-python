@@ -10,5 +10,23 @@ class Dog():
 
 
 my_dog = Dog('willie', 6)
-
 my_dog.sit()
+
+class Animal:
+    def __init__(self, name):
+        self.name = name
+
+    def eat(self):
+        print('eat an apple ')
+
+    def run(self):
+        print('run quickly')
+
+    def perform_all(self):
+        self.eat()
+        self.run()
+
+
+a=Animal('hello')
+a.perform_all()
+
