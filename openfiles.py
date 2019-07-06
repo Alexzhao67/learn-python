@@ -16,3 +16,9 @@ print(f.readlines(9))
 
 with open('test.txt',mode='r') as fp:
     print(fp.read())
+    
+    
+    os.rename('test.txt', 'test0415.txt')
+    
+    
+    
