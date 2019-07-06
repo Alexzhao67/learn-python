@@ -1,0 +1,6 @@
+list=[1,2,3,4]
+it = iter(list)    # create iterator
+print (next(it))
+# 1
+print (next(it))
+# 2
