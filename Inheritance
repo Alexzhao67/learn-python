@@ -1,0 +1,32 @@
+class People:
+
+    name = ''
+    age = 0
+    __weight = 0
+
+    def __init__(self,n,a,w):
+        self.name = n
+        self.age = a
+        self.__weight = w
+
+    def speak(self):
+        print("{0} said: I am {1} years old" .format(self.name,self.age))
+
+
+class Student(People):
+
+    grade = ''
+
+    def __init__(self, n, a, w, g):
+        People.__init__(self, n, a, w)
+        self.grade = g
+
+    def speak(self):
+        print("{0} said: I am {1} years old，I am in Grade {2} " .format (self.name, self.age, self.grade))
+
+
+s = Student('ken', 10, 60, 3)
+s.speak()
+
+# result
+# ken said: I am 10 years old，I am in Grade 3 
