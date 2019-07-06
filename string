@@ -1,0 +1,22 @@
+import string
+
+# the str join
+print('tom''cat')
+print('tom', 'cat')
+
+# result :
+# tomcat
+# tom cat
+
+# --------------------------------------
+
+word = 'hello python'
+print(word[1])
+print(word[1:7])
+print(word[0:10:2])
+print(len(word))
+# result is :
+# e
+# ello p
+# hlopt
+# 12
