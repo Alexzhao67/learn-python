@@ -19,6 +19,15 @@ with open('test.txt',mode='r') as fp:
     
     
     os.rename('test.txt', 'test0415.txt')
+   
+
+# get partial string from the special line of  a file 
+def get_partial_txt(path, n, line):
+    f= open(path, mode='r')
+    list_lines = f.readlines()
+    line_txt = list_lines[line-1]
+    partial_txt = line_txt[:n]
+    return partial_txt
     
     
     
